@@ -26,6 +26,11 @@ You can install the necessary Python libraries using pip:
 
 ```bash
 pip install opencv-python
+pip install datetime
+pip install cmake
+pip install numpy
+pip install os
+pip install dlib
 pip install face_recognition
 ```
 
@@ -36,7 +41,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/basic_face-recognition_system.git
+git clone https://github.com/mabdulrehmankhan/basic_face-recognition_system.git
 ```
 
 2. Change into the project directory:
@@ -81,7 +86,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Free License.
 
 Enjoy exploring and experimenting with this basic face recognition system! If you have any questions or suggestions, feel free to open an issue or reach out to the repository owner.
 

@@ -1,6 +1,6 @@
 # Basic Face Recognition System using Python
 
-Welcome to the "Basic Face Recognition System using Python" repository! This project is a simple demonstration of how to perform basic face recognition using Python and a few popular libraries. 
+Welcome to the "Basic Face Recognition System using Python" repository created by MUHAMMAD ABDUL REHMAN KHAN! This project is a simple demonstration of how to perform basic face recognition using Python and a few popular libraries.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -54,22 +54,12 @@ cd basic_face-recognition_system
 
 ## Usage
 
-Once you've installed the required libraries and cloned the repository, you can use the provided Python scripts to perform face recognition. Here's a brief overview of the main files in this repository:
+Once you've installed the required libraries and cloned the repository, you can use the provided Python script, main.py, to perform face recognition. Here's how you can use it:
 
-- `recognize_faces.py`: This script allows you to recognize faces in images. You can customize it to use your own images and perform face recognition.
-
-Example usage of the `recognize_faces.py` script:
+Example usage of the main.py script:
 
 ```bash
-python recognize_faces.py --image path_to_image.jpg
-```
-
-- `train_faces.py`: This script is used to train the face recognition model with a dataset of known faces. You can extend this script to train your own model with your dataset.
-
-Example usage of the `train_faces.py` script:
-
-```bash
-python train_faces.py --dataset path_to_dataset
+python main.py --image path_to_image.jpg
 ```
 
 Feel free to explore the code and modify it to suit your specific needs.
@@ -88,6 +78,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 This project is licensed under the Free License.
 
-Enjoy exploring and experimenting with this basic face recognition system! If you have any questions or suggestions, feel free to open an issue or reach out to the repository owner.
+Enjoy exploring and experimenting with this basic face recognition system! If you have any questions or suggestions, feel free to open an issue or reach out to MUHAMMAD ABDUL REHMAN KHAN, the repository owner.
 
 Thank you for using and contributing to the "Basic Face Recognition System using Python" project!
